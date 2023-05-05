@@ -1,7 +1,7 @@
 <?php
 
 // Define namespace for this class
-namespace App\Classes\Controllers;
+namespace Amb\Classes\Controllers;
 
 // Import necessary exceptions
 use InvalidArgumentException;
