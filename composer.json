@@ -1,7 +1,7 @@
 {
     "name": "sam/avalon-menu-builder",
     "description": "Builds WordPress menu tree",
-    "type": "wordpress-mu-plugin",
+    "type": "wordpress-plugin",
     "authors": [
         {
             "name": "Sam Hayman",
