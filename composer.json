@@ -1,0 +1,12 @@
+{
+  "name": "sam/avalon-menu-builder",
+  "description": "Builds WordPress menu tree",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Sam Hayman",
+      "email": "hayman.sam@gmail.com"
+    }
+  ],
+  "require": {}
+}
