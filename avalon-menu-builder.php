@@ -28,3 +28,4 @@
 if (!defined('ABSPATH')) exit;
 
 // Include your custom code here.
+require_once __DIR__ . '/app/Classes/Models/MenuBuilder.php';
